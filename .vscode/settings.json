@@ -1,0 +1,10 @@
+{
+  "eslint.enable": true,
+  "standard.enable": false,
+  "tslint.enable": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 160,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true
+}
